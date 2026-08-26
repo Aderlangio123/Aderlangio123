@@ -42,7 +42,7 @@ Olá! Sou o **Francisco Aderlangio**, um **estudante de tecnologia** apaixonado 
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aderlangio123-GITHUB&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aderlangio123-GITHUB&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-GITHUB&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
 </div>
 
@@ -58,7 +58,7 @@ Olá! Sou o **Francisco Aderlangio**, um **estudante de tecnologia** apaixonado 
   <a href="https://www.linkedin.com/in/francisco-aderlangio-b9b127388/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="faderlangio123@gmail.com">
+  <a href="faderlangio123@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
