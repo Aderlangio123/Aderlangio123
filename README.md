@@ -4,7 +4,7 @@
 
 <div align="center">
   <p align="center">
-    <img src="https://img.shields.io/badge/Status-Dev%20&%20Estudante%20-blueviolet?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Status-Dev%20&%20Estudante-blueviolet?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/Focus-Backend%20&%20Full%20Stack-blue?style=for-the-badge&logo=nodedotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/Community-Open%20Source-green?style=for-the-badge&logo=github&logoColor=white" />
   </p>
@@ -42,12 +42,12 @@ Olá! Sou o **Francisco Aderlangio**, um **estudante de tecnologia** apaixonado 
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aderlangio123-GITHUB&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-GITHUB&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aderlangio123&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aderlangio123&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO-GITHUB&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aderlangio123&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150" />
 </div>
 
 ---
@@ -58,7 +58,7 @@ Olá! Sou o **Francisco Aderlangio**, um **estudante de tecnologia** apaixonado 
   <a href="https://www.linkedin.com/in/francisco-aderlangio-b9b127388/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="faderlangio123@gmail.com" target="_blank">
+  <a href="mailto:faderlangio123@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
