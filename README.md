@@ -39,18 +39,15 @@ Olá! Sou o **Francisco Aderlangio**, um **estudante de tecnologia** apaixonado 
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Métricas & Repositórios
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aderlangio123&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aderlangio123&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aderlangio123&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/Aderlangio123" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Aderlangio123-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/Aderlangio123?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Ver_Repositórios_Públicos-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
 
 ---
