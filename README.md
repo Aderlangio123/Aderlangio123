@@ -58,7 +58,7 @@ Olá! Sou o **Francisco Aderlangio**, um **estudante de tecnologia** apaixonado 
   <a href="https://www.linkedin.com/in/francisco-aderlangio-b9b127388/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:faderlangio123@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=faderlangio123@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
