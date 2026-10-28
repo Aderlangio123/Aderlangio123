@@ -88,7 +88,7 @@ Feita em dupla com o Emanuel, consome a API FreeToGame com busca, filtros e tela
 </p>
 
 <p align="center">
-<img src="https://ghchart.rshah.org/2ea44f/Aderlangio123" alt="Contribuições" width="100%" />
+<img src="contribuicoes.svg" alt="Contribuições" width="100%" />
 </p>
 
 <div align="center">
