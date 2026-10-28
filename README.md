@@ -84,20 +84,11 @@ Feita em dupla com o Emanuel, consome a API FreeToGame com busca, filtros e tela
 ## 📊 Atividade no GitHub
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aderlangio123&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aderlangio123&layout=compact&theme=dracula&hide_border=true" />
-</p>
-
-<p align="center">
 <img src="https://streak-stats.demolab.com?user=Aderlangio123&theme=dracula&hide_border=true" />
 </p>
 
 <p align="center">
 <img src="https://ghchart.rshah.org/2ea44f/Aderlangio123" alt="Contribuições" width="100%" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aderlangio123&theme=react-dark&hide_border=true&area=true" width="100%" />
 </p>
 
 <div align="center">
